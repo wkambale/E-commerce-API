@@ -1,8 +1,6 @@
-Cart Module APIs
-================
+## Cart Module APIs
 
-Functions
--------
+- Functions
 
 Product Management Functions
 
