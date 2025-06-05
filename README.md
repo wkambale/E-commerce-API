@@ -87,8 +87,7 @@ Replace `https://yourstore.com/` with the actual URL of your OpenCart store.
             "name": "Test Product",
             "description": "This is a test product description.",
             "model": "TEST01",
-            "price": "100.00",
-            // ... other product details
+            "price": "100.00"
         }
     }
     ```
@@ -152,8 +151,7 @@ Replace `https://yourstore.com/` with the actual URL of your OpenCart store.
                 "name": "Product Beta",
                 "price": "120.5000",
                 "thumb": "https://yourstore.com/image/cache/catalog/demo/product_beta-100x100.jpg"
-            }
-            // ... more products
+            },
         ]
     }
     ```
@@ -299,9 +297,8 @@ Replace `https://yourstore.com/` with the actual URL of your OpenCart store.
                 "name": "Laptops",
                 "image": "https://yourstore.com/image/cache/catalog/demo/laptops-100x100.jpg",
                 "href": "https://yourstore.com/index.php?route=product/category&category_id=25",
-                "categories": [ /* subcategories if level allows */ ]
-            }
-            // ... more categories
+                "categories": [ ]
+            },
         ]
     }
     ```
@@ -484,8 +481,7 @@ Replace `https://yourstore.com/` with the actual URL of your OpenCart store.
         "store": {
             "config_name": "Your Store Name",
             "config_owner": "Store Owner",
-            "config_address": "123 Store Street",
-            // ... many other configuration settings
+            "config_address": "123 Store Street"
         }
     }
     ```
@@ -526,8 +522,7 @@ Replace `https://yourstore.com/` with the actual URL of your OpenCart store.
         "information": {
             "information_id": "4",
             "title": "About Us",
-            "description": "<p>This is the about us page content.</p>",
-            // ... other details
+            "description": "<p>This is the about us page content.</p>"
         }
     }
     ```
